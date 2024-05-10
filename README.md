@@ -1,5 +1,5 @@
 <html>
-  <h1>Projeto: Algoritmo Genético</h1>
+  <h1>Algoritmo Genético</h1>
   <p>A implementação do código Algoritmo Genético baseou-se no artigo "Uma abordagem para predicão de estudantes em risco
   utilizando algoritmos genéticos e mineração de dados: um estudo de caso com dados de um curso técnico a distância.
   Autores: Emanuel Marques Queiroga, Cristian Cechinel, Marilton Sanchonete de Aguiar", e no modelo do Algorimo Genético da Mochila, com algumas
