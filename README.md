@@ -1,5 +1,5 @@
 <html>
-  <h1>Algoritmo Genético</h1>
+  <h1>Projeto: Algoritmo Genético</h1>
   <p>A implementação do código Algoritmo Genético baseou-se no artigo "Uma abordagem para predicão de estudantes em risco
   utilizando algoritmos genéticos e mineração de dados: um estudo de caso com dados de um curso técnico a distância.
   Autores: Emanuel Marques Queiroga, Cristian Cechinel, Marilton Sanchonete de Aguiar", e no modelo do Algorimo Genético da Mochila, com algumas
@@ -14,5 +14,9 @@
   que para a população de redes MLP foi considerada uma acurácia >= 85%. Logo, os cromossomos selecionados passaram a compor uma amostra de cada grupo, fundamental para as
   próximas etapas abordadas pelo artigo como reprodução e mutação. Todavia, é importante ressaltar que o objetivo do software foi apenas representar os dados da proposta do artigo mencionado em alguma linguagem, 
     de modo a exemplificar seu funcionamento.</p> 
-  
+    <img></img>
+    <img></img>
+    <img></img>
+    <img></img>
+ 
 </html>
