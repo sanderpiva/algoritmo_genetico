@@ -11,9 +11,10 @@
     posição identifica um classificador de um certo grupo com uma configuração específica, ou seja, se a posição zero estiver preenchida com 1, significa que o primeiro classificador
     representa esse cromossomo e automaticamente, as demais posições são preenchidas com zero. Os cromossomos gerados compõe
   uma população de árvore de decisão e outra de redes MLP. Para a população de árvores de decisão, foi realizada uma amostragem considerando acurácia >= 90%, enquanto
-  que para a população de redes MLP foi considerada uma acurácia >= 85%. Logo, os cromossomos selecionados passaram a compor uma amostra de cada grupo, fundamental para as
-  próximas etapas abordadas pelo artigo como reprodução e mutação. Todavia, é importante ressaltar que o objetivo do software foi apenas representar os dados da proposta do artigo mencionado em alguma linguagem, 
-    de modo a exemplificar seu funcionamento.</p> 
+  que para a população de redes MLP foi considerada uma acurácia >= 85%. Logo, os cromossomos de cada população recebiam da avaliação nota zero, caso não atende-se ao critério acima e   
+  caso atende-se recebiam como nota o valor da própria acurácia. Os cromossomos selecionados passaram a compor uma amostra de cada grupo, fundamental para as
+  próximas etapas abordadas pelo artigo como reprodução e mutação. Todavia, é importante ressaltar que o objetivo do software foi apenas representar os dados da proposta do artigo     mencionado em alguma linguagem, 
+    de modo a exemplificar seu funcionamento. Veja a ilustração do resultado: </p> 
     <img src="https://github.com/sanderpiva/algoritmo_genetico/blob/main/1.png" alt="Foto 1">
     <img src="https://github.com/sanderpiva/algoritmo_genetico/blob/main/2.png" alt="Foto 2">
     <img src="https://github.com/sanderpiva/algoritmo_genetico/blob/main/3.png" alt="Foto 3">
