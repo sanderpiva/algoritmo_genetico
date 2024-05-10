@@ -1,9 +1,9 @@
 <html>
   <h1>Algoritmo Genetico</h1>
-  #A implementação do código Algoritmo Genético baseou-se no artigo "Uma abordagem para predicão de estudantes em risco
-  #utilizando algoritmos genéticos e mineração de dados: um estudo de caso com dados de um curso técnico a distância.
-  #Autores: Emanuel Marques Queiroga,Cristian Cechinel, Marilton Sanchonete de Aguiar", e no modelo do Algorimo Genético da Mochila, com algumas
-  #adaptações para abstrair a representação dos dados. 
+  <p>A implementação do código Algoritmo Genético baseou-se no artigo "Uma abordagem para predicão de estudantes em risco
+  utilizando algoritmos genéticos e mineração de dados: um estudo de caso com dados de um curso técnico a distância.
+  Autores: Emanuel Marques Queiroga, Cristian Cechinel, Marilton Sanchonete de Aguiar", e no modelo do Algorimo Genético da Mochila, com algumas
+  adaptações para abstrair a representação dos dados.</p> 
   <p>O código foi implementado em Java, no NeatBeans. Basicamente, o software carrega duas bases de dados referentes aos algoritmos árvore de decisão e redes MLP. 
   Os cromossomos ou indivíduos de cada grupo são classificadores com configuração específica, gerados aleatoriamente. Por exemplo, no caso de um cromossomo de
     redes MLP podemos ter como configuração o número de camadas ocultas, ou ainda o número máximo de iterações e sua acurácia. Os cromossomos têm tamanho de 10 posições, onde cada
