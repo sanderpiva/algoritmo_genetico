@@ -14,7 +14,7 @@
   que para a população de redes MLP foi considerada uma acurácia >= 85%. Logo, os cromossomos selecionados passaram a compor uma amostra de cada grupo, fundamental para as
   próximas etapas abordadas pelo artigo como reprodução e mutação. Todavia, é importante ressaltar que o objetivo do software foi apenas representar os dados da proposta do artigo mencionado em alguma linguagem, 
     de modo a exemplificar seu funcionamento.</p> 
-    <img src="caminho/para/imagem.png" alt="Descrição da imagem">
+    <img src="https://github.com/sanderpiva/algoritmo_genetico/blob/main/1.png" alt="Descrição da imagem">
     <img src="caminho/para/imagem.png" alt="Descrição da imagem">
     <img src="caminho/para/imagem.png" alt="Descrição da imagem">
     <img src="caminho/para/imagem.png" alt="Descrição da imagem">
