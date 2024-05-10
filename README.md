@@ -8,7 +8,7 @@
   Os cromossomos ou indivíduos de cada grupo são classificadores com configuração específica, gerados aleatoriamente. Por exemplo, no caso de um cromossomo de
     redes MLP podemos ter como configuração o número de camadas ocultas, ou ainda o número máximo de iterações e sua acurácia. </p>
    <p>Os cromossomos têm tamanho de 10 posições, onde cada
-    posição identifica um classificador de um certo grupo com uma configuração específica, ou seja, se a posição zero estiver preenchida com 1, signifca que o primeiro classificador
+    posição identifica um classificador de um certo grupo com uma configuração específica, ou seja, se a posição zero estiver preenchida com 1, significa que o primeiro classificador
     representa esse cromossomo e automaticamente, as demais posições são preenchidas com zero. Os cromossomos gerados compõe
   uma população de árvore de decisão e outra de redes MLP. Para a população de árvores de decisão, foi realizada uma amostragem considerando acurácia >= 90%, enquanto
   que para a população de redes MLP foi considerada uma acurácia >= 85%. Logo, os cromossomos selecionados passaram a compor uma amostra de cada grupo, fundamental para as
