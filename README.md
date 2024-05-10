@@ -6,7 +6,7 @@
   adaptações para abstrair a representação dos dados.</p> 
   <p>O código foi implementado em Java, no NeatBeans. Basicamente, o software carrega duas bases de dados referentes aos algoritmos árvore de decisão e redes MLP. 
   Os cromossomos ou indivíduos de cada grupo são classificadores com configuração específica, gerados aleatoriamente. Por exemplo, no caso de um cromossomo de
-    redes MLP podemos ter como configuração o número de camadas ocultas, ou ainda o número máximo de iterações e sua acurácia. </p>
+    arvores de decisão podemos ter como configuração o número de níveis ou levels, ou ainda a quantidade de nós e sua acurácia. </p>
    <p>Os cromossomos têm tamanho de 10 posições, onde cada
     posição identifica um classificador de um certo grupo com uma configuração específica, ou seja, se a posição zero estiver preenchida com 1, significa que o primeiro classificador
     representa esse cromossomo e automaticamente, as demais posições são preenchidas com zero. Os cromossomos gerados compõe
