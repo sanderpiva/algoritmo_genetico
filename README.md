@@ -1,6 +1,6 @@
 # 🧬 Algoritmo Genético: Predição de Evasão Acadêmica
 
-Este projeto implementa um **Algoritmo Genético (AG)** desenvolvido em Java, fundamentado no estudo de caso *"Uma abordagem para predição de estudantes em risco utilizando algoritmos genéticos e mineração de dados"* (Queiroga et al.). O sistema busca otimizar a seleção de classificadores para identificar precocemente alunos em risco de evasão escolar.
+Este projeto implementa um **Algoritmo Genético (AG)** desenvolvido em Java, inspirado no estudo de caso *"Uma abordagem para predição de estudantes em risco utilizando algoritmos genéticos e mineração de dados"* (Queiroga et al.). O sistema busca otimizar a seleção de classificadores para identificar precocemente alunos em risco de evasão escolar.
 
 ## 🚀 Visão Geral
 A solução utiliza a lógica do "Problema da Mochila" adaptada para abstrair e selecionar as melhores configurações de modelos de Machine Learning, focando na eficiência da predição.
