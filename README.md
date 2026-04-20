@@ -49,4 +49,8 @@ O foco da implementação é exemplificar o funcionamento dos algoritmos genéti
 Este projeto reflete a aplicação prática da observação de dados: ao invés de apenas coletar informações, o algoritmo seleciona as ferramentas (classificadores) mais precisas para observar o fenômeno de interesse, garantindo que o insight final seja estatisticamente confiável para a tomada de decisão.
 
 ---
-**Autor:** Sander Gustavo Piva 
+**Equipe:** 
+Darlene Leão de Souza |
+Josué M. Leite |
+Renan Feliciano Rocha |
+**Sander Gustavo Piva** 
